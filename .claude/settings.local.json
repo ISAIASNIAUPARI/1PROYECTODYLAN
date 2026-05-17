@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(git init)",
+      "PowerShell(git remote add origin https://github.com/ISAIASNIAUPARI/1PROYECTODYLAN.git)"
+    ]
+  }
+}
